@@ -18,7 +18,7 @@ La *passion* de la **technologie** me ***permettra*** peut-être plus tard de to
 M'aidant de quelques commandes, je créérai un monde à la manière des écrivains. 
   
     
-    Liste des objectifs actuels:
+    Liste des objectifs actuels: 
 1. La découverte
 2. l'assimilation
 2. La logique
@@ -35,6 +35,10 @@ mais je viens de découvrir quelques outils pratiques , grâce à celui-ci.
   2. Quora
   7. Medium
 
+  
+  Et le code html
+               
+    <center><p>Hello World!</p></center>
 ---
 
 [*`always respect the ten rules`*][1]
