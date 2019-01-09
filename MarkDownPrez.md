@@ -10,6 +10,9 @@
 * L'escalade;
 * La mise en forme de la psychologie au sein de la technologie;
 * la lecture;
+* et Eleanor, d'où je tiens mon pseudo :
+
+[![The best car euw... and NA.](https://img.youtube.com/vi/RedV7vhVKHY/0.jpg)](https://www.youtube.com/watch?v=RedV7vhVKHY)
 
 ***
 ---
