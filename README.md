@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Elleonors/Presentation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<center> <h1> Une présentation...rudimentaire. </h1> </center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
 
-### Markdown
+<div style="text-align:center"><img src ="https://pbs.twimg.com/profile_images/902233073579937792/Zo51adNq_400x400.jpg" /></div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+( la seule photo que j'ai trouvée)
+# mes interets
+* L'escalade;
+* La mise en forme de la psychologie au sein de la technologie;
+* la lecture;
+* et Eleanor, d'où je tiens mon pseudo :
 
-```markdown
-Syntax highlighted code block
+[![The best car euw... and NA.](https://img.youtube.com/vi/RedV7vhVKHY/0.jpg)](https://www.youtube.com/watch?v=RedV7vhVKHY)
 
-# Header 1
-## Header 2
-### Header 3
+***
+---
 
-- Bulleted
-- List
+La *passion* de la **technologie** me ***permettra*** peut-être plus tard de toucher à la manipulation de l'I.A.  
+M'aidant de quelques commandes, je créérai un monde à la manière des écrivains. 
+  
+    
+    Liste des objectifs actuels: 
+1. La découverte
+2. l'assimilation
+2. La logique
 
-1. Numbered
-2. List
+[//]: # ( La logique , mais ceci , là au dessus , ne relève pas de la logique bon sang ! )
 
-**Bold** and _Italic_ and `Code` text
+# Quelques outils pratiques
 
-[Link](url) and ![Image](src)
-```
+Après tout, je ne peux pas toujours utiliser [Mon site préferé !](https://www.google.be)  
+Bon, en réalité , si, je peux , et `je ne m'en prive pas.`
+mais je viens de découvrir quelques outils pratiques , grâce à celui-ci.
+  
+  1. Ryver
+  2. Quora
+  7. Medium
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  
+  Et le code html
+               
+    <center><p>Hello World!</p></center>
+---
 
-### Jekyll Themes
+[*`always respect the ten rules`*][1]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Elleonors/Presentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[1]: https://www.google.com/search?client=ubuntu&channel=fs&q=the+ten+rules&ie=utf-8&oe=utf-8
